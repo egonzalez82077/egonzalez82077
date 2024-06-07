@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Emiliano and I am a Materials Science and Engineering student at Georgia Tech. This summer marks the start of my journey of learning how to code!
+I look forward to growing my skills and meeting new people!
 <!--
 **egonzalez82077/egonzalez82077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
